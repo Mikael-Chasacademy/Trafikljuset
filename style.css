@@ -1,0 +1,82 @@
+body {
+  background-color: rgb(218, 218, 218);
+  display: inline-block;
+  width: 136px;
+  position: center;
+  margin: 150px;
+}
+
+/*trafikljusen*/
+
+.red {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  border: 10px solid darkred;
+  margin: 5px;
+}
+
+.yellow {
+  width: 100px;
+  height: 100px;
+  background-color: yellow;
+  border: 10px solid rgb(255, 196, 0);
+  margin: 5px;
+}
+
+.green {
+  width: 100px;
+  height: 100px;
+  background-color: green;
+  border: 10px solid darkgreen;
+  margin: 5px;
+}
+
+/* små rutor i trafikljusen*/
+
+.innerred {
+  background-color: rgb(255, 172, 172);
+  width: 100px;
+  height: 44px;
+}
+
+.inneryellow {
+  background-color: rgb(255, 255, 178);
+  width: 50px;
+  height: 44px;
+  margin-left: 50px;
+}
+
+.innergreen {
+  background-color: rgb(133, 201, 133);
+  width: 50px;
+  height: 44px;
+}
+
+/*signaler*/
+.stop {
+  color: rgb(110, 0, 0);
+  font-size: 18px;
+  text-align: center;
+  margin-top: 35px;
+}
+
+.caution {
+  color: rgb(255, 166, 1);
+  font-size: 18px;
+  text-align: center;
+  margin-top: 35px;
+}
+
+.go {
+  color: greenyellow;
+  font-size: 18px;
+  text-align: center;
+  margin-top: 35px;
+}
+
+/*backgrunds färg*/
+.backgrund {
+  background-color: aliceblue;
+  padding: 3px;
+}
