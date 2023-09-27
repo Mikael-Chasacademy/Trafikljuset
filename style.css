@@ -3,10 +3,9 @@ body {
   display: inline-block;
   width: 136px;
   position: center;
-  margin: 150px;
 }
 
-/*trafikljusen*/
+/*trafikljuset*/
 
 .red {
   width: 100px;
@@ -53,7 +52,7 @@ body {
   height: 44px;
 }
 
-/*signaler*/
+/*text-signaler*/
 .stop {
   color: rgb(110, 0, 0);
   font-size: 18px;
